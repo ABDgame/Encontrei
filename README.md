@@ -1,4 +1,7 @@
 # Encontrei 
+Site responsivo de uma loja plusize, adaptado por MQJogos,
+desenvolvido com 31.8% de elementos HTML, 59.2% de variáveis CSS e 
+9.0% de práticas JavaScript.
 #
 https://youtu.be/3l8Lob4ysI0
 #
